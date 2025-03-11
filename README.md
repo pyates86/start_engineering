@@ -5,6 +5,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 
 #### Linux
 - Basic Linux commands
+- vim text editor
 - One-liners (Bash, Awk, Sed)
 - Linux Kernel
 
@@ -38,6 +39,9 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 #### Coding
 - Python (focus on automation)
 - Go (focus on development)
+
+#### AI & ML
+- Basic introduction
 
 #### Job Roles
 - SysAdmin
