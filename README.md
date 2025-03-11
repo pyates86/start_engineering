@@ -5,7 +5,9 @@ Having worked as a SysAdmin, an Engineer, an SRE, an SRE Manager, and a Project 
 
 #### Linux
 > Basic Linux commands
+
 > One-liners (Bash, Awk, Sed)
+
 > Linux Kernel
 
 #### Netowrking Fundementals 
