@@ -4,48 +4,46 @@ Having worked as a SysAdmin, an Engineer, an SRE, an SRE Manager, and a Project 
 ## Topics
 
 #### Linux
-> Basic Linux commands
-
-> One-liners (Bash, Awk, Sed)
-
-> Linux Kernel
+- Basic Linux commands
+- One-liners (Bash, Awk, Sed)
+- Linux Kernel
 
 #### Netowrking Fundementals 
-> Networking Concepts
-> Networking tools
-> Toubleshooting
+- Networking Concepts
+- Networking tools
+- Toubleshooting
 
 #### Virtualisation
-> Virtualisation fundementals
-> Virtual Manchines (KVM)
-> Containers (Cri-o, Docker, LXD)
-> Kubernetes / Openshift
+- Virtualisation fundementals
+- Virtual Manchines (KVM)
+- Containers (Cri-o, Docker, LXD)
+- Kubernetes / Openshift
 
 #### Cloud
-> Cloud concepts
-> Cloud providers (AWS, Azure, GCP)
+- Cloud concepts
+- Cloud providers (AWS, Azure, GCP)
 
 #### Git 
-> basic git commands
-> Gitub - version control
+- basic git commands
+- Gitub - version control
 
 #### Agile Project Management
-> Agile concepts
-> Jira concepts
+- Agile concepts
+- Jira concepts
 
 #### Automation
-> Basic Scripting
-> Ansible
+- Basic Scripting
+- Ansible
 
 #### Coding
-> Python (focus on automation)
-> Go (focus on development)
+- Python (focus on automation)
+- Go (focus on development)
 
 #### Job Roles
-> SysAdmin
-> Devops
-> SRE
-> Customer-facing roles
-> Engineering roles
-> Leadership roles
+- SysAdmin
+- Devops
+- SRE
+- Customer-facing roles
+- Engineering roles
+- Leadership roles
 
