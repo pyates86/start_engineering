@@ -1,4 +1,4 @@
-# Start Engineering
+# [WIP] Start Engineering
 Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I would like to pass on this knowledge to my kids, and anyone else for that matter, who who would like to understand basic knowledge as starting point to consider a career in IT.  Therefore, this repo serves as a one-stop shop for some very basic IT fundementals.   
 
 ## Topics
