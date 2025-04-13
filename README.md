@@ -51,3 +51,13 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - Engineering roles
 - Leadership roles
 
+#### Soft-Skills
+- Crucial Conversations 
+- Giving and Receiving Feedback
+- Accountability
+- 5 Choices
+- 7 Habits
+- Unconscious Bias
+
+#### Recommended books
+ - 
