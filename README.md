@@ -52,7 +52,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - Leadership roles
 
 #### Meeting Types
- - [Meetings](https://github.com/pyates86/start_engineering/blob/main/resources/meeting_types.md)
+ - [Meetings](resources/meeting_types.md)
 
 #### Soft-Skills
 - Crucial Conversations 
