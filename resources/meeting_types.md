@@ -1,6 +1,7 @@
 ## Common Meeting Types
 
 This doc will describe some basic meeting types. 
+
 TODO: Split into sections (People Manager, Project Manager, Tech Lead etc.)
 
 ### Meeting Types
