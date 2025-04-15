@@ -1,33 +1,150 @@
-## Basic Linux Commands
-This tutorial will assume you have a Linux OS installed, you have a Terminal window open, and you understand what a Terminal is.
+### PIPEExample
 
-For each command, use the help feature to explore available options and play around with a few of them until you are comfortable with the command.
 
-### Basic commands 
+### addgroup
 
-#### pwd command (print working directory)
+```bash
+
+```
+### adduser
+```bash
+
+```
+### alias
+```bash
+
+```
+### bunzip2
+```bash
+
+```
+### bzip2
+```bash
+
+```
+### cat
+```bash
+
+```
+### cd
+```bash
+
+```
+### chmod
+```bash
+
+```
+### chown
+```bash
+
+```
+### clear
+```bash
+
+```
+### cp
+```bash
+
+```
+### cron
+```bash
+
+```
+### crontab
+```bash
+
+```
+### curl
+### date
+### df
+### diff3
+### dig
+### du
+### echo
+### egrep
+### export
+### fdisk
+### file
+### find
+### grep
+### gzip
+### head
+### help
+### hash
+### history
+### host
+### hostname
+### id
+### jobs
+### join
+### kill
+### killall
+### la
+### last
+### ld
+### less
+### ll
+### ln
+### ls
+### make
+### man
+### mkfs
+### mkdir
+### more
+### mv
+### nc
+### nohup
+### nslookup
+### open
+### ping
+### ps
+### pwd
 ```bash
 pwd # shows current directory
 ```
-
-#### ls command (list files)
-```bash
-ls #list files
-ls -la # list all files in long format
-ls --help # get basic usage
-man ls # get the manual for command to get full options
-```
-
-
-#### cd command (change directory)
-```bash
-cd Projects # move into Project directory
-cd .. # move up one level from the current directory
-```
-
-
-## Other resources
-https://www.redhat.com/en/blog/linux-commands-to-know
-https://ubuntu.com/tutorials/command-line-for-beginners
-https://www.digitalocean.com/community/tutorials/linux-commands
-https://github.com/mismailzz/Red-Hat-Linux-Command-Cheatsheet
+### qr
+### reboot
+### rm
+### scp
+### search
+### sed
+### sort
+### ssh
+### ssh-add
+### ssh-agent
+### ssh-copy-id
+### ssh-keygen
+### su
+### sudo
+### systemctl
+### systemd
+### tail
+### tee
+### top
+### tree
+### type
+### ul
+### umount
+### unalias
+### uname
+### unset
+### unzip
+### uptime
+### userdel
+### usermod
+### users
+### vim
+### vimtutor
+### vmstat
+### wait
+### wc
+### whatis
+### which
+### who
+### whoami
+### xed
+### xz
+### xzcat
+### yes
+### zim
+### zip
