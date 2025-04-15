@@ -16,7 +16,7 @@ A sprint planning meeting is a collaborative session in Agile project management
 ### Daily Scrum (or daily stand-up) meeting
 A daily scrum meeting, also called a daily stand-up, is a brief, time-boxed (usually 15 minutes) meeting in Agile Scrum where the development team syncs on progress. Held daily, it involves team members answering three questions: What did I do yesterday? What will I do today? Are there any blockers? Facilitated by the Scrum master, it promotes transparency, collaboration, and quick issue resolution while keeping the team focused on sprint goals.
 
-#### Sprint Review
+### Sprint Review
 A sprint review meeting is an Agile Scrum event held at the end of a sprint to showcase the work completed to stakeholders and gather feedback. The team, including the product owner, Scrum master, and developers, demonstrates the sprint’s deliverables (e.g., features or product increments), discusses what was accomplished, and reviews the sprint’s goals. Stakeholders provide input, which may influence the product backlog for future sprints. It promotes transparency, collaboration, and alignment on the project’s direction.
 
 ### Sprint retrospective meeting
