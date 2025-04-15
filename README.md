@@ -43,6 +43,9 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - Python (focus on automation)
 - Go (focus on development)
 
+#### Common Tools & Applications
+- 
+
 #### AI & ML
 - Basic introduction
 
