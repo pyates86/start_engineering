@@ -25,8 +25,10 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - Cloud providers (AWS, Azure, GCP)
 
 #### Git 
-- basic git commands
-- Gitub - version control
+- [Github Overview](docs/github_overview.md)
+- Github Tutorial
+- [Git Overview](docs/git_overview.md)
+- Git Tutorial 
 
 #### Agile Project Management
 - Agile concepts
