@@ -5,7 +5,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 
 #### Linux
 - Basic Linux commands
-- vim text editor
+- [Basic vim commands](resources/vim_commands.md) 
 - Package managers
 - One-liners (Bash, Awk, Sed)
 - Linux Kernel
