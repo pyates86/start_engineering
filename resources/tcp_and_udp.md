@@ -5,6 +5,7 @@
 **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)** are core protocols in the Internet Protocol (IP) suite, operating at the transport layer (Layer 4\) of the OSI model. They define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data.
 
 * **TCP:** A connection-oriented protocol that ensures reliable, ordered, and error-checked data delivery. It’s used for applications where accuracy is critical, such as web browsing (HTTP/HTTPS), email (SMTP/IMAP), and file transfers (FTP).  
+
 * **UDP:** A connectionless protocol that prioritizes speed over reliability. It sends data without ensuring delivery or order, making it ideal for real-time applications like video streaming, online gaming, and VoIP.
 
 ---
@@ -35,9 +36,11 @@ The **TCP handshake** is a three-step process that establishes a reliable connec
 1. **SYN (Synchronize):**  
    * The client sends a SYN packet to the server, requesting a connection. It includes an initial sequence number (e.g., X) to track data.  
    * Example: Client → Server: "SYN, sequence \= X"  
+
 2. **SYN-ACK (Synchronize-Acknowledge):**  
    * The server responds with a SYN-ACK packet, acknowledging the client’s request (ACK \= X+1) and sending its own sequence number (e.g., Y) for its data.  
    * Example: Server → Client: "SYN, sequence \= Y, ACK \= X+1"  
+
 3. **ACK (Acknowledge):**  
    * The client acknowledges the server’s response by sending an ACK packet (ACK \= Y+1), confirming the connection is established.  
    * Example: Client → Server: "ACK, sequence \= X+1, ACK \= Y+1"
@@ -65,5 +68,6 @@ Once the handshake is complete, the connection is established, and data transfer
 ### Summary
 
 * **TCP** is like a phone call: it establishes a connection, ensures all data is received correctly, and maintains order, but it’s slower due to the overhead. The TCP handshake is critical for setting up this reliable channel.  
+
 * **UDP** is like sending a postcard: it’s fast and lightweight but doesn’t guarantee delivery or order, making it suitable for time-sensitive applications where occasional data loss is acceptable.
 
