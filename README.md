@@ -6,7 +6,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 #### Linux
 - Basic Linux commands
 - [Basic vim commands](resources/vim_commands.md) 
-- Package managers
+- [Package managers overview](resources/package_management.md)
 - One-liners (Bash, Awk, Sed)
 - Linux Kernel
 
