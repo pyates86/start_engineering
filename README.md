@@ -12,6 +12,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 
 #### Networking Fundementals 
 - Networking Concepts
+- [Networking Concepts](resources/networking_concepts.md)
 - Networking tools
 - Toubleshooting
 
