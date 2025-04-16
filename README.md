@@ -1,5 +1,5 @@
 # [WIP] Start Engineering
-With extensive experience as a Systems Administrator, Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
+With extensive experience as a Systems Administrator, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
 
 ## Topics
 
