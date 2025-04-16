@@ -54,7 +54,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - Devops
 - SRE
 - Customer-facing roles
-- Engineering roles
+- [Engineering roles](resources/software_eng_roles.md)
 - Leadership roles
 
 #### Meeting Types
