@@ -1,11 +1,12 @@
-**The OSI Model**
+# The OSI Model
 
 The OSI (Open Systems Interconnection) Model is a conceptual framework developed by the International Organization for Standardization (ISO) to standardize and simplify network communication. It divides the process of data transmission into seven distinct layers, each responsible for specific functions. This modular approach helps in designing, implementing, and troubleshooting network systems.
 
 Below, I’ll explore each of the seven OSI layers, explaining their functions, key protocols, and examples of their roles in networking. I’ll also include how they interact and their relevance to the previously discussed TCP, UDP, and network ports.  
+
 ---
 
-**Overview of the OSI Model**
+### Overview of the OSI Model
 
 The OSI model consists of seven layers, often grouped into two categories:
 
@@ -13,11 +14,12 @@ The OSI model consists of seven layers, often grouped into two categories:
 * **Upper Layers (5–7):** Focus on application-level communication and data presentation (software-oriented).
 
 Each layer interacts with the layer above and below it, encapsulating or decapsulating data as it moves through the stack.  
+
 ---
 
-**The Seven Layers of the OSI Model**
+### The Seven Layers of the OSI Model
 
-**Layer 1: Physical Layer**
+#### Layer 1: Physical Layer
 
 * **Function:** Handles the physical connection between devices, transmitting raw bits (0s and 1s) over a medium (e.g., cables, fiber, wireless).  
 * **Key Responsibilities:**  
@@ -32,7 +34,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 2: Data Link Layer**
+#### Layer 2: Data Link Layer
 
 * **Function:** Ensures reliable data transfer between adjacent network nodes, handling error detection and correction at the frame level.  
 * **Key Responsibilities:**  
@@ -47,7 +49,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 3: Network Layer**
+#### Layer 3: Network Layer
 
 * **Function:** Manages logical addressing and routing of data packets across different networks.  
 * **Key Responsibilities:**  
@@ -62,7 +64,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 4: Transport Layer**
+#### Layer 4: Transport Layer
 
 * **Function:** Provides end-to-end communication services, ensuring reliable or efficient data transfer between applications.  
 * **Key Responsibilities:**  
@@ -77,7 +79,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 5: Session Layer**
+#### Layer 5: Session Layer
 
 * **Function:** Manages and maintains communication sessions between applications, ensuring data exchange is coordinated.  
 * **Key Responsibilities:**  
@@ -92,7 +94,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 6: Presentation Layer**
+#### Layer 6: Presentation Layer
 
 * **Function:** Translates data between the application layer and the network, ensuring it’s in a usable format.  
 * **Key Responsibilities:**  
@@ -107,7 +109,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**Layer 7: Application Layer**
+#### Layer 7: Application Layer
 
 * **Function:** Provides network services directly to user applications, enabling communication with other devices.  
 * **Key Responsibilities:**  
@@ -122,7 +124,7 @@ Each layer interacts with the layer above and below it, encapsulating or decapsu
 
 ---
 
-**How the OSI Layers Work Together**
+### How the OSI Layers Work Together
 
 Data moves through the OSI layers in a process called encapsulation (when sending) and decapsulation (when receiving):
 
@@ -141,7 +143,7 @@ For example, when you visit a website (HTTPS, port 443):
 
 ---
 
-**Relevance to TCP, UDP, and Network Ports**
+### Relevance to TCP, UDP, and Network Ports
 
 * **TCP and UDP** operate at **Layer 4 (Transport)**, handling data segmentation and delivery. TCP’s handshake ensures reliable connections (e.g., for HTTP on port 80), while UDP’s connectionless nature suits low-latency tasks (e.g., DNS on port 53).  
 * **Network Ports** are defined at the transport layer to multiplex data to specific applications. For instance, the 30 ports listed earlier (e.g., 22 for SSH, 443 for HTTPS) are used by TCP or UDP to direct traffic to the correct application-layer protocol.  
@@ -151,7 +153,7 @@ For example, when you visit a website (HTTPS, port 443):
 
 ---
 
-**Key Benefits of the OSI Model**
+### Key Benefits of the OSI Model
 
 * **Standardization:** Provides a universal framework for network design and interoperability.  
 * **Modularity:** Isolates functions, making it easier to develop and troubleshoot systems.  
@@ -160,6 +162,6 @@ For example, when you visit a website (HTTPS, port 443):
 
 ---
 
-**Summary**
+### Summary
 
 The OSI model’s seven layers—Physical, Data Link, Network, Transport, Session, Presentation, and Application—provide a structured approach to network communication. Each layer has distinct roles, from transmitting raw bits to enabling user applications. TCP and UDP, operating at the transport layer, rely on the lower layers for delivery and support upper-layer protocols like HTTP or DNS, which use specific ports to function.  
