@@ -2,10 +2,12 @@
 
 Below is a list of the top 30 network ports and their associated protocols, along with brief explanations of their uses. These ports are commonly used in networking, security, and system administration, and they are often prioritized in network monitoring and firewall configurations.
 
-1. **Port 20 \- FTP (File Transfer Protocol, Data)**  
-   * **Use**: Transfers file data between client and server in FTP sessions (unencrypted).  
-2. **Port 21 \- FTP (File Transfer Protocol, Control)**  
-   * **Use**: Manages FTP session commands (e.g., authentication, file listing) for file transfers.  
+# Port 20 \- FTP (File Transfer Protocol, Data)**  
+**Use**: Transfers file data between client and server in FTP sessions (unencrypted).  
+
+# Port 21 \- FTP (File Transfer Protocol, Control)**  
+**Use**: Manages FTP session commands (e.g., authentication, file listing) for file transfers.  
+
 3. **Port 22 \- SSH (Secure Shell) / SCP / SFTP**  
    * **Use**: Provides secure remote access for command-line management and secure file transfers.  
 4. **Port 23 \- Telnet**  

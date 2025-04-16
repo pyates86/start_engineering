@@ -57,9 +57,10 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - [Engineering roles](resources/software_eng_roles.md)
 - Leadership roles
 
-#### Meeting Types
- - [Meetings](resources/meeting_types.md)
-
+#### Roles and Responsibilities
+- [Meetings](resources/meeting_types.md)
+- SLA, SLO, SLI
+ 
 #### Soft-Skills
 - Crucial Conversations 
 - Giving and Receiving Feedback
