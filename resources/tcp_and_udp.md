@@ -1,6 +1,6 @@
-**TCP and UDP: Explanation, Differences, and Key Concepts**
+# TCP and UDP: Explanation, Differences, and Key Concepts
 
-**What are TCP and UDP?**
+### What are TCP and UDP?
 
 **TCP (Transmission Control Protocol)** and **UDP (User Datagram Protocol)** are core protocols in the Internet Protocol (IP) suite, operating at the transport layer (Layer 4\) of the OSI model. They define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data.
 
@@ -9,9 +9,9 @@
 
 ---
 
-**Key Concepts**
+### Key Concepts
 
-**TCP**
+#### TCP
 
 * **Reliable Delivery:** Ensures all data packets arrive correctly by using acknowledgments (ACKs) and retransmitting lost packets.  
 * **Ordered Delivery:** Guarantees packets are reassembled in the correct sequence using sequence numbers.  
@@ -19,7 +19,7 @@
 * **Flow Control:** Manages data flow to prevent overwhelming the receiver, using a sliding window mechanism.  
 * **Connection-Oriented:** Establishes a connection before data transfer via the TCP handshake and terminates it afterward.
 
-**UDP**
+#### UDP
 
 * **Connectionless:** Sends data (datagrams) without establishing a connection, reducing overhead.  
 * **Unreliable:** Does not guarantee delivery, order, or error correction; lost packets are not retransmitted.  
@@ -28,7 +28,7 @@
 
 ---
 
-**TCP Handshake**
+### TCP Handshake
 
 The **TCP handshake** is a three-step process that establishes a reliable connection between a client and a server before data transfer begins. It ensures both devices are synchronized and ready to communicate.
 
@@ -43,9 +43,10 @@ The **TCP handshake** is a three-step process that establishes a reliable connec
    * Example: Client → Server: "ACK, sequence \= X+1, ACK \= Y+1"
 
 Once the handshake is complete, the connection is established, and data transfer can begin. The connection is terminated later using a similar process (FIN or RST packets).  
+
 ---
 
-**Differences Between TCP and UDP**
+### Differences Between TCP and UDP
 
 | Feature | TCP | UDP |
 | ----- | ----- | ----- |
@@ -61,7 +62,7 @@ Once the handshake is complete, the connection is established, and data transfer
 
 ---
 
-**Summary**
+### Summary
 
 * **TCP** is like a phone call: it establishes a connection, ensures all data is received correctly, and maintains order, but it’s slower due to the overhead. The TCP handshake is critical for setting up this reliable channel.  
 * **UDP** is like sending a postcard: it’s fast and lightweight but doesn’t guarantee delivery or order, making it suitable for time-sensitive applications where occasional data loss is acceptable.
