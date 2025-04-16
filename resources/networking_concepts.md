@@ -8,7 +8,11 @@ This doc will describe some basic networking concepts.
 
 ### TCP vs UDP
 
-[TCP and UDP explained](tcp_udp.md)
+[TCP and UDP explained](tcp_and_udp.md)
+
+### OSI Model
+
+[OSI Model explained](osi_model.md)
 
 ### TCP Handshake
 

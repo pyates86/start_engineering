@@ -37,7 +37,8 @@
    * **The client acknowledges the server’s response by sending an ACK packet (ACK \= Y+1), confirming the connection is established.**  
    * **Example: Client → Server: "ACK, sequence \= X+1, ACK \= Y+1"**
 
-**Once the handshake is complete, the connection is established, and data transfer can begin. The connection is terminated later using a similar process (FIN or RST packets).**  
+Once the handshake is complete, the connection is established, and data transfer can begin. The connection is terminated later using a similar process (FIN or RST packets).
+
 ---
 
 **Differences Between TCP and UDP**
@@ -56,6 +57,5 @@
 
 **Summary**
 
-* **TCP is like a phone call: it establishes a connection, ensures all data is received correctly, and maintains order, but it’s slower due to the overhead. The TCP handshake is critical for setting up this reliable channel.**  
-* **UDP is like sending a postcard: it’s fast and lightweight but doesn’t guarantee delivery or order, making it suitable for time-sensitive applications where occasional data loss is acceptable.**
-
+* **TCP** is like a phone call: it establishes a connection, ensures all data is received correctly, and maintains order, but it’s slower due to the overhead. The TCP handshake is critical for setting up this reliable channel.
+* **UDP** is like sending a postcard: it’s fast and lightweight but doesn’t guarantee delivery or order, making it suitable for time-sensitive applications where occasional data loss is acceptable.
