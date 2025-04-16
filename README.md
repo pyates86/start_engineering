@@ -1,5 +1,5 @@
 # [WIP] Start Engineering
-Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I would like to pass on this knowledge to my kids, and anyone else for that matter, who who would like to understand basic knowledge as starting point to consider a career in IT.  Therefore, this repo serves as a one-stop shop for some very basic IT fundementals.   
+With extensive experience as a Systems Administrator, Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
 
 ## Topics
 
