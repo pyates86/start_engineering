@@ -2,22 +2,24 @@
 
 Networking in IT refers to the interconnection of devices to enable communication, data sharing, and resource access. Below is a concise description of the main networking concepts:
 
-### Ports and Protocols
+## Ports and Protocols
 Rules governing data exchange.
 
 [Top network ports and their associated protocols](ports_and_protocols.md)
 
-### TCP vs UDP
+## TCP vs UDP
 
 [TCP and UDP explained](tcp_and_udp.md)
 
-### OSI Model
+## OSI Model
 
 [OSI Model explained](osi_model.md)
 
 ### TCP Handshake
 
+
 ### SSH
+
 
 ### Network Topology  
 The arrangement of devices in a network (e.g., star, bus, ring, mesh). Defines how nodes (computers, routers) are physically or logically connected, impacting scalability and fault tolerance.
