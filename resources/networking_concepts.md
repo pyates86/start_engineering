@@ -4,6 +4,7 @@ Networking in IT refers to the interconnection of devices to enable communicatio
 
 ### Ports and Protocols
 Rules governing data exchange.
+
 [Top network ports and their associated protocols](ports_and_protocols.md)
 
 ### TCP vs UDP
