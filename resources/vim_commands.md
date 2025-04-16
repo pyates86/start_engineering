@@ -54,7 +54,7 @@ Switch between modes using the commands below.
 | `$` | Move to the end of the line |
 | `gg` | Go to the first line of the file |
 | `G` | Go to the last line of the file |
-| `:n` | Go to line number `n` (e.g., `:10` for line 10\) |
+| `:n` | Go to line number `n` (e.g., `:10` for line 10) |
 | `Ctrl-f` | Scroll down one page |
 | `Ctrl-b` | Scroll up one page |
 
@@ -102,7 +102,7 @@ Switch between modes using the commands below.
 | `:w` | Save (write) the file |
 | `:w filename` | Save as `filename` |
 | `:q` | Quit Vim (if no changes made) |
-| `:q\!` | Quit without saving changes |
+| `:q!` | Quit without saving changes |
 | `:wq` | Save and quit |
 | `:x` | Save and quit (same as `:wq`) |
 | `ZZ` | Save and quit (from Normal Mode) |
@@ -120,8 +120,8 @@ Switch between modes using the commands below.
 | `d` | Delete selected text |
 | `y` | Yank (copy) selected text |
 | `p` | Paste over selected text |
-| `\>` | Indent selected lines right |
-| `\<` | Indent selected lines left |
+| `>` | Indent selected lines right |
+| `<` | Indent selected lines left |
 
 ---
 
