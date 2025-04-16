@@ -10,8 +10,7 @@ Having worked as a SysAdmin, Engineer, SRE, SRE Manager, and Project Manager, I 
 - One-liners (Bash, Awk, Sed)
 - Linux Kernel
 
-#### Networking Fundementals 
-- Networking Concepts
+#### Networking Fundementals
 - [Networking Concepts](resources/networking_concepts.md)
 - Networking tools
 - Toubleshooting
