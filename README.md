@@ -69,7 +69,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  
 #### Soft-Skills
 - Crucial Conversations 
-- Giving and Receiving Feedback
+- [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
 - Accountability
 - 5 Choices
 - 7 Habits
