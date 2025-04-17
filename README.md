@@ -68,7 +68,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - SLA, SLO, SLI
  
 #### Soft-Skills
-- Crucial Conversations 
+- [Crucial Conversations](resources/crucial_conversations.md) 
 - [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
 - Accountability
 - 5 Choices
