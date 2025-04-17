@@ -10,7 +10,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 ## Topics
 
 #### Linux
-- Basic Linux commands
+- [Basic Linux commands](examples/basic_linux_commands.md)
 - [Basic vim commands](resources/vim_commands.md) 
 - [Package management - overview](resources/package_management.md)
 - One-liners (Bash, Awk, Sed)
