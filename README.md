@@ -59,7 +59,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - SysAdmin
 - Devops
 - SRE
-- Customer-facing roles
+- [Customer-facing roles](resources/customer_facing_roles.md)
 - [Engineering roles](resources/software_eng_roles.md)
 - Leadership roles
 
