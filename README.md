@@ -68,6 +68,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - SLA, SLO, SLI
  
 #### Soft-Skills
+- [Understanding soft-skills and their importance](resources/understanding_soft_skills.md)
 - [Crucial Conversations](resources/crucial_conversations.md) 
 - [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
 - Accountability
