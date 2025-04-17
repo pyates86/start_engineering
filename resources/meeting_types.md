@@ -32,7 +32,7 @@ A project status meeting is a recurring gathering to update the project team and
 A project review meeting is a session to assess a project’s progress, performance, and alignment with objectives. Attendees, including the project manager, team members, and stakeholders, discuss milestones, deliverables, budgets, risks, and any issues. The meeting evaluates whether the project is on track, identifies corrective actions if needed, and ensures stakeholder expectations are met. Outcomes are documented to guide next steps and maintain accountability.
 
 
-# Team Meetings
+# Team Related Meetings
 
 ## Brainstorming
 A brainstorming meeting is a collaborative session where team members generate ideas, solutions, or strategies to address a specific problem or goal. Participants, often from diverse roles, share creative thoughts in a free-flowing, non-judgmental environment to encourage innovation. A facilitator may guide the discussion, using techniques like mind mapping or round-robin input. The outcome is a list of ideas to be prioritized or refined for further action, fostering creativity and teamwork.
@@ -56,7 +56,7 @@ A status-update meeting is a recurring meeting where team members discuss the pr
 A problem-solving meeting is a targeted session where participants come together to analyze a specific issue, identify its root cause, and develop solutions. Attendees, often including team members, stakeholders, or experts, discuss the problem, share insights, and evaluate options using tools like root cause analysis or brainstorming. The goal is to agree on actionable solutions, assign responsibilities, and establish timelines, ensuring the issue is resolved effectively and efficiently.
 
 
-# People Manager and/or Leadership Meetings
+# People Manager and/or Leadership Related Meetings
  
 ## Performance review meetings
 A performance review meeting is a scheduled discussion between an employee and their manager to evaluate the employee’s work, contributions, and progress over a specific period. It typically covers goals achieved, strengths, areas for improvement, and future objectives. The meeting may include feedback, performance ratings, and discussions about career development, training needs, or compensation. The aim is to align expectations, provide constructive input, and support professional growth.
