@@ -71,10 +71,13 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Understanding soft-skills and their importance](resources/understanding_soft_skills.md)
 - [Crucial Conversations](resources/crucial_conversations.md) 
 - [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
-- Accountability
-- 5 Choices
-- 7 Habits
-- Unconscious Bias
+- [Importance of Accountability](resources/importance_of_accountability.md)
+- [Driving Accountability](resources/driving_accountability.md)
+- [Understanding Unconscious Bias](resources/unconscious_bias.md)
 
 #### Recommended books
- - 
+- 5 Choices of Extraordinary Productivity
+    - by Adam Merrill, Kory Kogon, and Leena Rinne
+- 7 Habits of Highly Effective People
+    -  by Stephen Covey
+
