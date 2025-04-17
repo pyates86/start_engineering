@@ -38,7 +38,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Git Tutorial 
 
 ## Agile Project Management
-- Agile concepts
+- [Agile concepts](resources/agile_concepts.md)
 - Jira concepts
 
 ## Automation
