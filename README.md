@@ -10,52 +10,52 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 # Topics:
 
 ## Linux
-#### [Basic Linux commands](examples/basic_linux_commands.md)
-#### [Basic vim commands](resources/vim_commands.md) 
- - [Package management - overview](resources/package_management.md)
- - One-liners (Bash, Awk, Sed)
- - Linux Kernel
+-  [Basic Linux commands](examples/basic_linux_commands.md)
+- [Basic vim commands](resources/vim_commands.md) 
+- [Package management - overview](resources/package_management.md)
+- One-liners (Bash, Awk, Sed)
+- Linux Kernel
 
-### Networking Fundementals
+## Networking Fundementals
 - [Networking Concepts](resources/networking_concepts.md)
 - Networking tools
 - Toubleshooting
 
-### Virtualisation
+## Virtualisation
 - Virtualisation fundementals
 - Virtual Manchines (KVM)
 - Containers (Cri-o, Docker, LXD)
 - Kubernetes / Openshift
 
-### Cloud
+## Cloud
 - Cloud concepts
 - Cloud providers (AWS, Azure, GCP)
 
-### Git 
+## Git 
 - [Github Overview](docs/github_overview.md)
 - Github Tutorial
 - [Git Overview](docs/git_overview.md)
 - Git Tutorial 
 
-### Agile Project Management
+## Agile Project Management
 - Agile concepts
 - Jira concepts
 
-### Automation
+## Automation
 - Basic Scripting
 - Ansible
 
-### Coding
+## Coding
 - Python (focus on automation)
 - Go (focus on development)
 
-### Common Tools & Applications
+## Common Tools & Applications
 - 
 
-### AI & ML
+## AI & ML
 - Basic introduction
 
-### Job Roles
+## Job Roles
 - SysAdmin
 - Devops
 - SRE
@@ -63,13 +63,13 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Engineering roles](resources/software_eng_roles.md)
 - Leadership roles
 
-### Roles and Responsibilities
+## Roles and Responsibilities
 - [Meetings](resources/meeting_types.md)
 
 
 - [Understanding SLA's, SLO's, and SLI's](resources/sla_slo_sli.md)
  
-### Soft-Skills
+## Soft-Skills
 - [Understanding soft-skills and their importance](resources/understanding_soft_skills.md)
 - [Crucial Conversations](resources/crucial_conversations.md) 
 - [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
@@ -77,7 +77,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Driving Accountability](resources/driving_accountability.md)
 - [Understanding Unconscious Bias](resources/unconscious_bias.md)
 
-### Recommended books
+## Recommended books
 - 5 Choices of Extraordinary Productivity
     - by Adam Merrill, Kory Kogon, and Leena Rinne
 - 7 Habits of Highly Effective People
