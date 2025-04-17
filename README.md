@@ -75,7 +75,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Driving Accountability](resources/driving_accountability.md)
 - [Understanding Unconscious Bias](resources/unconscious_bias.md)
 
-## Recommended books
+## Book Recommendations
 
 ### Soft-skills Books
 - 5 Choices of Extraordinary Productivity
