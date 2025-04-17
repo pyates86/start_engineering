@@ -28,7 +28,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Kubernetes / Openshift
 
 ## Cloud
-- Cloud concepts
+- [Basic Cloud concepts](resources/cloud_concepts.md)
 - Cloud providers (AWS, Azure, GCP)
 
 ## Git 
