@@ -1,6 +1,6 @@
 
 
-# Customer-facing engineering roles
+# Customer-facing Engineering Roles
 
 Customer-facing engineering roles in IT focus on bridging technical solutions with customer needs, requiring both technical expertise and strong communication skills. Below is a list of common roles, along with their descriptions:
 
