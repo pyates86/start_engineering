@@ -39,7 +39,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 ## Agile Project Management
 - [Agile concepts](resources/agile_concepts.md)
-- Jira concepts
+- [Jira concepts](resources/jira_concepts.md)
 
 ## Automation
 - Basic Scripting
