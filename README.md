@@ -65,7 +65,9 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 #### Roles and Responsibilities
 - [Meetings](resources/meeting_types.md)
-- SLA, SLO, SLI
+
+
+- [Understanding SLA's, SLO's, and SLI's](resources/sla_slo_sli.md)
  
 #### Soft-Skills
 - [Understanding soft-skills and their importance](resources/understanding_soft_skills.md)
