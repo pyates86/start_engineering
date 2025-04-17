@@ -7,14 +7,14 @@
 # [WIP] Start Engineering
 With extensive experience as a Systems Administrator, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
 
-## Topics
+# Topics
 
-### Linux
-- [Basic Linux commands](examples/basic_linux_commands.md)
-- [Basic vim commands](resources/vim_commands.md) 
-- [Package management - overview](resources/package_management.md)
-- One-liners (Bash, Awk, Sed)
-- Linux Kernel
+## Linux
+### - [Basic Linux commands](examples/basic_linux_commands.md)
+### - [Basic vim commands](resources/vim_commands.md) 
+### - [Package management - overview](resources/package_management.md)
+### - One-liners (Bash, Awk, Sed)
+### - Linux Kernel
 
 ### Networking Fundementals
 - [Networking Concepts](resources/networking_concepts.md)
