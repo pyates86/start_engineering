@@ -1,4 +1,4 @@
-<div style="width:20%; margin: auto;">
+<div style="width:50%; margin: auto;">
 
 ![Screenshot of Crash Bandicoot Coding.](images/crash_image.jpg)
  
