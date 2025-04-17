@@ -13,7 +13,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 -  [Basic Linux commands](examples/basic_linux_commands.md)
 - [Basic vim commands](resources/vim_commands.md) 
 - [Package management - overview](resources/package_management.md)
-- One-liners (Bash, Awk, Sed)
+- [Bash One-liners](examples/bash_cheatsheet.md)
 - [Linux Kernel Overview](resources/linux_kernel.md)
 
 ## Networking Fundementals
