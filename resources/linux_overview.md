@@ -21,8 +21,8 @@ Linux is an open-source, Unix-like operating system kernel first developed by Li
 
 4. ### **Stability and Reliability**:  
    * Known for long uptimes, especially in server environments, due to robust design and error handling.  
-   * Frequent updates and patches enhance reliability without requiring reboots in many cases (e.g., with tools like ksplice).  
-
+   * Frequent updates and patches enhance reliability without requiring reboots in many cases (e.g., with tools like `ksplice`).
+  
 5. ### **Security**:  
    * Strong permission models (user, group, and others) and file access controls.  
    * Regular security patches and a transparent development process reduce vulnerabilities.  
@@ -47,37 +47,37 @@ Linux is an open-source, Unix-like operating system kernel first developed by Li
    * Communicates between software and hardware, abstracting low-level operations.  
 
 2. ### **Distributions**:  
-   * Complete operating systems built around the Linux kernel, including tools, libraries, and package managers (e.g., apt for Debian-based, dnf for Fedora).  
+   * Complete operating systems built around the Linux kernel, including tools, libraries, and package managers (e.g., `apt` for Debian-based, `dnf` for Fedora).  
    * Examples: Ubuntu (user-friendly), Arch Linux (highly customizable), CentOS (enterprise-focused).  
 
 3. ### **File System Hierarchy**:  
-   * Organized in a tree structure starting at the root (/).  
+   * Organized in a tree structure starting at the root (`/`).  
    * Key directories:  
-     * /etc: Configuration files.  
-     * /home: User data.  
-     * /var: Variable data (logs, databases).  
-     * /bin, /sbin: Essential binaries.  
+     * `/etc`: Configuration files.  
+     * `/home`: User data.  
+     * `/var`: Variable data (logs, databases).  
+     * `/bin`, `/sbin`: Essential binaries.  
    * Everything (including devices) is treated as a file.  
 
 4. ### **Shell**:  
    * A command-line interpreter (e.g., Bash, Zsh) that processes user commands and scripts.  
-   * Enables automation through scripting and access to thousands of CLI utilities (e.g., grep, awk, sed).  
+   * Enables automation through scripting and access to thousands of CLI utilities (e.g., `grep`, `awk`, `sed`).  
 
 5. ### **Processes and Daemons**:  
    * Every running program is a process with a unique PID (Process ID).  
-   * Daemons are background processes (e.g., sshd for SSH, httpd for web servers) that handle system services.  
+   * Daemons are background processes (e.g., `sshd` for SSH, `httpd` for web servers) that handle system services.  
 
 6. ### **Package Management**:  
-   * Tools like apt, yum, or pacman simplify software installation, updates, and dependency management.  
+   * Tools like `apt`, `yum`, or `pacman` simplify software installation, updates, and dependency management.  
    * Repositories host software packages, ensuring trusted and verified sources.  
 
 7. ### **Users and Permissions**:  
    * Users have unique IDs (UID) and belong to groups (GID).  
-   * Permissions (read, write, execute) are assigned to owner, group, and others, ensuring secure access control.  
+   * Permissions (`read`, `write`, `execute`) are assigned to owner, group, and others, ensuring secure access control.  
 
 8. ### **Networking**:  
    * Robust networking capabilities, supporting protocols like TCP/IP, SSH, and FTP.  
-   * Tools like iptables, nftables, and NetworkManager manage firewalls and connectivity.  
+   * Tools like `iptables`, `nftables`, and `NetworkManager` manage firewalls and connectivity.  
 
 9. ### **Interoperability**:  
    * Compatible with many file systems (ext4, NTFS, FAT32) and protocols.  
