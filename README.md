@@ -12,14 +12,16 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 ## Linux
 - [Linux Overview](resources/linux_overview.md)
 - [Basic Linux commands](examples/basic_linux_commands.md)
-- [Basic vim commands](resources/vim_commands.md) 
+- [Basic vim commands](resources/vim_commands.md)
+- [Linux sudo](resources/linux sudo in detail.md)
+- [Linux Filesystem](resources/linux_filesyetem.md) 
 - [Package management - overview](resources/package_management.md)
 - [Bash One-liners](examples/bash_cheatsheet.md)
 - [Linux Kernel Overview](resources/linux_kernel.md)
 
 ## Networking Fundementals
 - [Networking Concepts](resources/networking_concepts.md)
-- Networking tools
+- [Networking tools](examples/basic_linux_networking_tools.md)
 - Toubleshooting
 
 ## Virtualisation
