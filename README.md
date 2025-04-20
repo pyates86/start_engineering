@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="100" height="100" padding-right:100px src="images/crash_image.jpg">
+  <img width="100" height="100" padding-right:500px src="images/crash_image.jpg">
 </p>
 
 <!---
