@@ -9,8 +9,8 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System |
- | [Basic Linux commands](examples/basic_linux_commands.md)  | Basic Linux terminal commands for file mgmt, system monitoring, permissions, networking, package management and more.  |
+ | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System. |
+ | [Basic Linux commands](examples/basic_linux_commands.md)  | Basic Linux terminal commands for file management, system monitoring, permissions, networking, package management and more.  |
  | [Linux sudo](resources/linux_sudo_in_detail.md)  | A description of `sudo`, its main characteristics, and key concepts. |
  | [Linux Filesystem](resources/linux_filesyetem.md) | A list of the standard top-level directories in a Linux file system, along with a brief summary of their roles, based on the Filesystem Hierarchy Standard (FHS). |
  | [Basic vim commands](resources/vim_commands.md) | A cheatsheet that list the main commands for navigating, editing, saving, and managing files in Vim. |
@@ -24,7 +24,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Networking Concepts](resources/networking_concepts.md) |  |
- | [Networking tools](examples/basic_linux_networking_tools.md) |  |
+ | [Networking tools](examples/basic_linux_networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks.  |
  | Toubleshooting |  |
 
 ## Virtualisation
