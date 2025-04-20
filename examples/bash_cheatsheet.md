@@ -360,7 +360,9 @@ date
 Displays the current date and time.
 
 ### Run a command on all files in a directory
-`for f in *; do echo "Processing $f"; done`  
+```bash
+for f in *; do echo "Processing $f"; done
+```
 Loops through all files in the current directory and processes them (e.g., prints their names).
 
 ## Tips for Using Bash One-Liners
