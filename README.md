@@ -5,12 +5,10 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 # Topics:
 
-
-LINUX          |     dsvf      |   dvsv
-Value-One      | Value-One      | Value-One
-Value-Two      | Value-Two      | Value-Two
-Value-Three    | Value-Three    | Value-Three
-Value-Four     | Value-Four     | Value-Four
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | Content Cell  | Content Cell  |
+ | Content Cell  | Content Cell  |
 
 
 ## Linux
