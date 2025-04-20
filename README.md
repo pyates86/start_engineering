@@ -6,7 +6,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 # Topics:
 
 
-# LINUX        |                |
+**LINUX**      |                |
 ---------------|----------------|-------------
 Value-One      | Value-One      | Value-One
 Value-Two      | Value-Two      | Value-Two
