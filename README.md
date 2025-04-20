@@ -19,16 +19,23 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Linux Kernel Overview](resources/linux_kernel.md) | A detailed description of the Linux kernel, its main characteristics, and key concepts. |
 
 
-## Networking Fundementals
-- [Networking Concepts](resources/networking_concepts.md)
-- [Networking tools](examples/basic_linux_networking_tools.md)
-- Toubleshooting
+## Networking Fundamentals
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Networking Concepts](resources/networking_concepts.md) |  |
+ | [Networking tools](examples/basic_linux_networking_tools.md) |  |
+ | Toubleshooting |  |
 
 ## Virtualisation
-- Virtualisation fundementals
-- Virtual Manchines (KVM)
-- Containers (Cri-o, Docker, LXD)
-- Kubernetes / Openshift
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | Virtualisation fundementals |  |
+ | Virtual Manchines (KVM) |  |
+ | Containers (Cri-o, Docker, LXD) |  |
+ | Kubernetes |  |
+ | Openshift |  |
 
 ## Cloud
 - [Basic Cloud concepts](resources/cloud_concepts.md)
