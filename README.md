@@ -5,21 +5,19 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 # Topics:
 
+## Linux
+
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux OS |
- | Content Cell  | Content Cell  |
+ | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System |
+ | [Basic Linux commands](examples/basic_linux_commands.md)  | Basic Linux terminal commands for file mgmt, system monitoring, permissions, package management and more  |
+ | [Linux sudo](resources/linux_sudo_in_detail.md)  |  |
+ | [Linux Filesystem](resources/linux_filesyetem.md) |  |
+ | [Basic vim commands](resources/vim_commands.md) |  |
+ | [Package management - overview](resources/package_management.md) |  |
+ | [Bash One-liners](examples/bash_cheatsheet.md) |  |
+ | [Linux Kernel Overview](resources/linux_kernel.md) |  |
 
-
-## Linux
-- [Linux Overview](resources/linux_overview.md)
-- [Basic Linux commands](examples/basic_linux_commands.md)
-- [Basic vim commands](resources/vim_commands.md)
-- [Linux sudo](resources/linux_sudo_in_detail.md)
-- [Linux Filesystem](resources/linux_filesyetem.md) 
-- [Package management - overview](resources/package_management.md)
-- [Bash One-liners](examples/bash_cheatsheet.md)
-- [Linux Kernel Overview](resources/linux_kernel.md)
 
 ## Networking Fundementals
 - [Networking Concepts](resources/networking_concepts.md)
