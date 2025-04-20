@@ -7,7 +7,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | Content Cell  | Content Cell  |
+ | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux OS |
  | Content Cell  | Content Cell  |
 
 
