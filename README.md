@@ -3,7 +3,25 @@
 # [WIP] Start Engineering
 With extensive experience as a Systems Administrator, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
 
-# Topics:
+
+# Table of Contents
+1. [Linux](#Linux)
+2. [Networking Fundamentals](#networking-fundamentals)
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. [Book Recommendations](#book-recommendations)
+    1. [Soft-skills Books](#soft-skills-books)
+    2. [Engineering books](#engineering-books) 
+
 
 ## Linux
 
