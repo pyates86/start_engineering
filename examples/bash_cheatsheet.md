@@ -2,31 +2,38 @@
 
 Below is a **Bash One-Liner Cheat Sheet** with a wide range of practical examples for common tasks in Linux/Unix environments. These one-liners are designed to be concise, powerful, and useful for scripting, system administration, and automation. They assume you're using a Bash shell.
 
-## Bash One-Liner Cheat Sheet
+## File and Directory Operations
 
-### File and Directory Operations
-
-**List files with details, sorted by modification time**  
+### List files with details, sorted by modification time
 
 ```bash
 ls -lt  
 ```
 Lists files in long format, sorted by modification time (newest first).
 
-**Find all .jpg files in the current directory and subdirectories**  
-`find . -type f -name "*.jpg"`  
+### Find all .jpg files in the current directory and subdirectories
+```bash
+find . -type f -name "*.jpg"  
 Searches for .jpg files recursively.
+```
 
-**Create a new empty file**  
-`touch newfile.txt`  
+### Create a new empty file
+```bash
+touch newfile.txt
+```
+  
 Creates an empty file named newfile.txt.
 
-**Remove a directory and its contents**  
-`rm -rf directory/`  
+### Remove a directory and its contents
+```bash
+rm -rf directory/
+``` 
 Deletes directory/ and all its contents (use with caution).
 
-**Copy all .png files to another directory**  
-`cp *.png /path/to/destination/`  
+### Copy all .png files to another directory
+```bash
+cp *.png /path/to/destination/
+```
 Copies all .png files to the specified directory.
 
 ### Text Processing
