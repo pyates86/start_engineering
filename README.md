@@ -1,13 +1,18 @@
-<div style="width:50%; margin: auto;">
-
 ![Screenshot of Crash Bandicoot Coding.](images/crash_image.jpg)
- 
-</div>
 
 # [WIP] Start Engineering
 With extensive experience as a Systems Administrator, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
 
 # Topics:
+
+
+Name &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp;
+------------|-------------|-------------
+Value-One   | Value-One   | Value-One
+Value-Two   | Value-Two   | Value-Two
+Value-Three | Value-Three | Value-Three
+Value-Four  | Value-Four  | Value-Four
+
 
 ## Linux
 - [Linux Overview](resources/linux_overview.md)
