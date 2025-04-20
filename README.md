@@ -1,5 +1,6 @@
-<img align="left" width="800" src="images/crash_image.jpg">
-
+<p align="center">
+  <img width="740" height="700" src="images/crash_image.jpg">
+</p>
 
 <!---
 
