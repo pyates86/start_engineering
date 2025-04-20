@@ -1,4 +1,4 @@
-<img align="left" width="460" height="300" src="images/crash_image.jpg">
+<img align="left" width="920" src="images/crash_image.jpg">
 
 
 <!---
