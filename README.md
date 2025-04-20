@@ -6,8 +6,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 # Topics:
 
 
-LINUX          |     dsvf       |   dvsv       
----------------|----------------|-------------
+LINUX          |     dsvf      |   dvsv
 Value-One      | Value-One      | Value-One
 Value-Two      | Value-Two      | Value-Two
 Value-Three    | Value-Three    | Value-Three
