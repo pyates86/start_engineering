@@ -1,11 +1,5 @@
 
-<p align="center">
-  <img width="100" height="100" padding-right:500px src="images/crash_image.jpg">
-</p>
-
-<!---
-[//]: <> ![Screenshot of Crash Bandicoot Coding.](images/crash_image.jpg)
--->
+![Screenshot of Crash Bandicoot Coding.](images/crash_image.jpg)
 
 # [WIP] Start Engineering
 With extensive experience as a Systems Administrator, Software Engineer, Site Reliability Engineer, SRE Manager, and Project Manager, I aim to impart this expertise to my children and others interested in exploring a career in IT. This repository serves as a comprehensive resource, providing foundational IT knowledge as a starting point for aspiring professionals.
