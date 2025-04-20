@@ -7,7 +7,10 @@ Below is a **Bash One-Liner Cheat Sheet** with a wide range of practical example
 ### File and Directory Operations
 
 **List files with details, sorted by modification time**  
-`ls -lt`  
+
+```bash
+ls -lt  
+```
 Lists files in long format, sorted by modification time (newest first).
 
 **Find all .jpg files in the current directory and subdirectories**  
