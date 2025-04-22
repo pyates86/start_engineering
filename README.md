@@ -73,11 +73,13 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Basic Cloud concepts](resources/cloud_concepts.md)
 - Cloud providers (AWS, Azure, GCP)
 
-## Git 
-- [Github Overview](docs/github_overview.md)
-- Github Tutorial
-- [Git Overview](docs/git_overview.md)
-- Git Tutorial 
+## Git
+ | Topic         | Description   |
+ | :------------ | :-----------: | 
+ | [Github Overview](docs/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
+ | Github Tutorial |  |
+ | [Git Overview](docs/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
+ | Git Tutorial |  |
 
 ## Agile Project Management
 - [Agile concepts](resources/agile_concepts.md)
@@ -135,8 +137,8 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Refactoring: Improving the Design of Existing Code
     - by Martin Fowler
 
+### Networking, Cloud & Virtualisation books
+
 ### SRE & Operations Books
 - [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
-
-
 
