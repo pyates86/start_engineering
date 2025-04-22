@@ -55,7 +55,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Understanding TCP and UDP](resources/tcp_and_udp.md) | Description of TCP and UDP which define how data is transmitted between devices over a network, handling the packaging, delivery, and integrity of data. |
  | [Understanding OSI Model](resources/osi_model.md) | Description of the OSI Model which is a conceptual framework to standardize and simplify network communication. |
  | [Networking tools](examples/basic_linux_networking_tools.md) | A list of top Linux networking tools which are widely used for network administration, monitoring, troubleshooting, and security tasks. |
- | Toubleshooting |  |
+ | [Toubleshooting and debugging](resources/troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
  | [Networking Concepts](resources/networking_concepts.md) |  |
 
 
