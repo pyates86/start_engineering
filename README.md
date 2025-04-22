@@ -84,7 +84,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Github Overview](docs/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
  | Github Tutorial |  |
  | [Git Overview](docs/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
- | Git Tutorial |  |
+ | [Git Tutorial](examples/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
 
 ## Agile Project Management
 - [Agile concepts](resources/agile_concepts.md)
