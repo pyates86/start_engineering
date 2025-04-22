@@ -14,7 +14,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 # Table of Contents
 1. [Linux](#Linux)
-2. [Networking Fundamentals](#networking-fundamentals)
+2. [Networking](#networking)
 3. []()
 4. []()
 5. []()
