@@ -45,7 +45,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Linux Kernel Overview](resources/linux_kernel.md) | A detailed description of the Linux kernel, its main characteristics, and key concepts. |
 
 
-## Networking Fundamentals
+## Networking
 
  | Topic         | Description   |
  | :------------ | :-----------: |
