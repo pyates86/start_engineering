@@ -6,6 +6,10 @@ Below, I’ll explore each of the seven OSI layers, explaining their functions, 
 
 ---
 
+![Screenshot of OSI Model.](images/osi_model.png)
+
+---
+
 ### Overview of the OSI Model
 
 The OSI model consists of seven layers, often grouped into two categories:
