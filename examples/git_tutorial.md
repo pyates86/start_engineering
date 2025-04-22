@@ -300,10 +300,15 @@ git merge feature-hello
 
 Git will report a conflict in `index.py`.
 
-**Resolve the Conflict: Open** `index.py`**, which will show conflict markers: \`\`\`python \<\<\<\<\<\<\< HEAD print('Hello from main\!')**  
-print('Hello from feature\!')
+**Resolve the Conflict: 
+Open** `index.py`**, which will show conflict 
+markers: 
+\`\`\`python 
+\<\<\<\<\<\<\< HEAD 
+print('Hello from main\!')**  
 
-*feature-hello*
+print('Hello from feature\!')
+    *feature-hello*
 
 ```bash
 Edit to keep the desired version or combine changes:
