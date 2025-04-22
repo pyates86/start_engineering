@@ -70,10 +70,15 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | Openshift |  |
 
 ## Cloud
-- [Basic Cloud concepts](resources/cloud_concepts.md)
-- Cloud providers (AWS, Azure, GCP)
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Cloud Computing Overview](resources/cloud_overview.md) | |
+ | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
+ | Cloud providers (AWS, Azure, GCP) | |
 
 ## Git
+
  | Topic         | Description   |
  | :------------ | :-----------: | 
  | [Github Overview](docs/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
