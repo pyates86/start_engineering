@@ -2,13 +2,11 @@
 
 Below is a concise, beginner-friendly tutorial on using the **Git version control system** for software engineers. This guide covers the essentials of Git, from setup to common workflows, with practical examples tailored for collaborative software development. It assumes basic familiarity with the command line and focuses on real-world use cases.
 
----
 
 ## What is Git?
 
 Git is a distributed version control system that tracks changes to source code, enabling multiple developers to collaborate on a project. It records snapshots of your project (called commits), allows branching for parallel development, and supports merging changes. Git is widely used in software engineering for its speed, flexibility, and robust collaboration features.
 
----
 
 ## Tutorial Goals
 
@@ -22,7 +20,6 @@ By the end of this tutorial, you’ll know how to:
 * Resolve merge conflicts.  
 * Follow best practices for Git workflows.
 
-  ---
 
 ## Prerequisites
 
@@ -30,7 +27,6 @@ By the end of this tutorial, you’ll know how to:
 * A code editor (e.g., VS Code).  
 * (Optional) A GitHub, GitLab, or Bitbucket account for remote repositories.
 
-  ---
 
 ## Step 1: Install and Configure Git
 
@@ -42,38 +38,35 @@ By the end of this tutorial, you’ll know how to:
 
 Set your name and email, which Git attaches to your commits:
 
-```
-
+```bash
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
 Optionally, set your default editor for commit messages:
 
-```
+```bash
 git config --global core.editor "code --wait"  # For VS Code
 ```
 
 Check your configuration:
 
-```
+```bash
 git config --list
 ```
-
----
 
 ## Step 2: Initialize a Git Repository
 
 **Create a Project Directory**:
 
-```
+```bash
 mkdir my-project
 cd my-project
 ```
 
 **Initialize a Git Repository**: Initialize an empty Git repository in the directory:
 
-```
+```bash
 git init
 ```
 
@@ -83,13 +76,12 @@ This creates a hidden `.git` folder to store version history.
 
 Check the repository status:
 
-```
+```bash
 git status
 ```
 
 Output should show an empty repository with no files tracked.
 
----
 
 ## Step 3: Track and Commit Changes
 
@@ -97,13 +89,13 @@ Output should show an empty repository with no files tracked.
 
 Create a sample file, e.g., `index.py`:
 
-```
+```bash
 echo "print('Hello, Git!')" > index.py
 ```
 
 * **Check Status**:
 
-```
+```bash
 git status
 ```
 
@@ -113,14 +105,14 @@ Output shows `index.py` as an untracked file.
 * **Stage the File**:   
   Add `index.py` to the staging area (preparing it for a commit):
 
-```
+```bash
 git add index.py
 ```
 
 
 Or stage all files:
 
-```
+```bash
 git add .
 ```
 
@@ -128,7 +120,7 @@ git add .
 
 Save the staged changes as a commit with a descriptive message:
 
-```
+```bash
 git commit -m "Initial commit: Add index.py with hello world"
 ```
 
@@ -138,13 +130,12 @@ The `-m` flag specifies the commit message.
 
 Check the commit log:
 
-```
+```bash
 git log
 ```
 
 Output shows the commit with its hash, author, date, and message. Use `git log --oneline` for a compact view.
 
----
 
 ## Step 4: Work with Branches
 
@@ -152,7 +143,7 @@ Branches allow parallel development, e.g., for new features or bug fixes, withou
 
 **List Branches**:
 
-```
+```bash
 git branch
 ```
 
@@ -162,20 +153,19 @@ The default branch is usually `main` (or `master` in older setups).
 
 Create a branch for a new feature:
 
-```
+```bash
 git branch feature-hello
 ```
 
 * **Switch to the Branch**:
 
-```
+```bash
 git checkout feature-hello
 ```
 
-
 Or combine creation and switching:
 
-```
+```bash
 git checkout -b feature-hello
 ```
 
@@ -190,7 +180,7 @@ print('This is a new feature.')
 
 Stage and commit the changes:
 
-```
+```bash
 git add index.py
 git commit -m "Add new print statement in feature-hello"
 ```
@@ -199,13 +189,13 @@ git commit -m "Add new print statement in feature-hello"
 
 Switch back to the main branch:
 
-```
+```bash
 git checkout main
 ```
 
 Merge the feature branch into `main`:
 
-```
+```bash
 git merge feature-hello
 ```
 
@@ -215,11 +205,9 @@ If there are no conflicts, Git updates `main` with the changes.
 
 After merging, delete the feature branch:
 
-```
+```bash
 git branch -d feature-hello
 ```
-
----
 
 ## Step 5: Collaborate with Remote Repositories
 
@@ -232,13 +220,13 @@ Remote repositories (e.g., on GitHub) enable team collaboration and backups.
 
 Add the remote repository:
 
-```
+```bash
 git remote add origin https://github.com/your-username/my-project.git
 ```
 
 Verify the remote:
 
-```
+```bash
 git remote -v
 ```
 
@@ -246,7 +234,7 @@ git remote -v
 
 Push the `main` branch to GitHub:
 
-```
+```bash
 git push -u origin main
 ```
 
@@ -256,7 +244,7 @@ The `-u` flag sets `origin main` as the default upstream branch.
 
 To work on an existing project, clone it:
 
-```
+```bash
 git clone https://github.com/your-username/my-project.git
 cd my-project
 ```
@@ -265,11 +253,9 @@ cd my-project
 
 To sync with the latest changes from the remote:
 
-```
+```bash
 git pull origin main
 ```
-
----
 
 ## Step 6: Handle Merge Conflicts
 
@@ -284,7 +270,7 @@ print('Hello from main!')
 
 Commit and push:
 
-```
+```bash
 git add index.py
 git commit -m "Update greeting on main"
 git push origin main
@@ -298,7 +284,7 @@ print('Hello from feature!')
 
 Commit:
 
-```
+```bash
 git add index.py
 git commit -m "Update greeting on feature-hello"
 ```
@@ -307,7 +293,7 @@ git commit -m "Update greeting on feature-hello"
 
 Switch to `main` and merge `feature-hello`:
 
-```
+```bash
 git checkout main
 git merge feature-hello
 ```
@@ -319,7 +305,7 @@ print('Hello from feature\!')
 
 *feature-hello*
 
-```
+```bash
 Edit to keep the desired version or combine changes:
 28
 print('Hello from both branches!')
@@ -327,18 +313,16 @@ print('Hello from both branches!')
 
 Stage and commit the resolved file:
 
-```
+```bash
 git add index.py
 git commit -m "Resolve merge conflict"
 ```
 
 **Push the Changes**:
 
-```
+```bash
 git push origin main
 ```
-
----
 
 ## Step 7: Best Practices for Git Workflows
 
@@ -363,7 +347,7 @@ git push origin main
 * **Use .gitignore**:   
   Create a `.gitignore` file to exclude files like:
 
-```
+```bash
 node_modules/
 *.log
 .env
@@ -372,7 +356,6 @@ node_modules/
 
 Find templates at [gitignore.io](https://www.gitignore.io).
 
----
 
 ## Step 8: Useful Git Commands
 
@@ -391,17 +374,15 @@ Find templates at [gitignore.io](https://www.gitignore.io).
 * **Cherry-Pick**:  
   * Apply a specific commit to another branch:
 
-```
+```bash
 git cherry-pick <commit-hash>
 ```
-
-    ---
 
 ## Step 9: Collaborate Using Pull Requests
 
 * **Push a Feature Branch**:
 
-```
+```bash
 git push origin feature-hello
 ```
 
@@ -417,7 +398,7 @@ git push origin feature-hello
       
 * **Sync Local Repository**: After the PR is merged, update your local `main`:
 
-```
+```bash
 git checkout main
 git pull origin main
 ```
@@ -430,7 +411,7 @@ git pull origin main
 * **Rebase for Cleaner History**:  
   * Rebase a feature branch onto `main` to avoid merge commits:
 
-```
+```bash
 git checkout feature-hello
 git rebase main
 ```
@@ -439,7 +420,7 @@ git rebase main
 
   * Resolve conflicts if any, then force-push:
 
-```
+```bash
 git push --force
 ```
 
@@ -447,7 +428,7 @@ git push --force
 * **Squash Commits**:  
   * Combine multiple commits into one for a cleaner history:
 
-```
+```bash
 git rebase -i main
 ```
 
@@ -458,7 +439,7 @@ Change `pick` to `squash` for commits to combine, then edit the commit message.
 * **Use Tags for Releases**:  
   * Tag a commit for a release:
 
-```
+```bash
 git tag -a v1.0.0 -m "Release 1.0.0"
 git push origin v1.0.0
 ```
@@ -467,7 +448,7 @@ git push origin v1.0.0
 * **Bisect for Bug Hunting**:  
   * Find the commit that introduced a bug:
 
-```
+```bash
 git bisect start
 git bisect bad  # Current state is broken
 git bisect good <commit-hash>  # Known good commit
@@ -475,7 +456,6 @@ git bisect good <commit-hash>  # Known good commit
 
 Git checks out commits until you identify the faulty one.
 
----
 
 ## Resources
 
@@ -484,7 +464,6 @@ Git checks out commits until you identify the faulty one.
 * **GitHub Guides**: [guides.github.com](https://guides.github.com)  
 * **Pro Git Book**: Free at [git-scm.com/book](https://git-scm.com/book)
 
-  ---
 
 ## Practice Exercise
 
