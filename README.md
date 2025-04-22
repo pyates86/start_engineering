@@ -126,10 +126,14 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
     -  by Stephen Covey
 
 ### Engineering books
-- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
-- The Pragmatic Programmer: Your Journey to Mastery by Andrew Hunt and David Thomas
-- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides 
-- Refactoring: Improving the Design of Existing Code by Martin Fowler
+- Clean Code: A Handbook of Agile Software Craftsmanship
+    - by Robert C. Martin
+- The Pragmatic Programmer: Your Journey to Mastery
+    - by Andrew Hunt and David Thomas
+- Design Patterns: Elements of Reusable Object-Oriented Software
+    - by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides 
+- Refactoring: Improving the Design of Existing Code
+    - by Martin Fowler
 
 ### SRE & Operations Books
 - [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
