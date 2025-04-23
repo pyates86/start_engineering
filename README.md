@@ -28,15 +28,6 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 13. [Responsibilities](#responsibilities)
 14. [Soft-Skills](#soft-skills)
 15. [Book Recommendations](#book-recommendations)
-    1. [Soft-skills Books](#soft-skills-books)
-    2. [Engineering books](#engineering-books)
-    3. [Networking](#networking-books)
-    4. [Security](#security-books)
-    5. [Virtualisation](#virtualisation-books)
-    6. [Cloud](#cloud-books)
-    7. [SRE/OPS](#SRE/OPS-books)
-    8. [Management](#management-books)
-
 
 
 ## Linux
