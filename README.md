@@ -120,12 +120,15 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Basic introduction
 
 ## Job Roles
-- SysAdmin
-- Devops
-- SRE
-- [Customer-facing roles](resources/customer_facing_roles.md)
-- [Engineering roles](resources/software_eng_roles.md)
-- Leadership roles
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [SysAdmin](resources/sysadmin_role.md) | |
+ | Devops | |
+ | [SRE](resources/sre_role.md) | |
+ | [Customer-facing roles](resources/customer_facing_roles.md) | |
+ | [Engineering roles](resources/software_eng_roles.md) | |
+ | Leadership roles | |
 
 ## Responsibilities
 - [Meeting Types](resources/meeting_types.md)
