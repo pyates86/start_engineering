@@ -32,7 +32,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 
 ## Linux
 
- | Topic         | Description   |
+ | # Topic         | Description   |
  | :------------ | :-----------: |
  | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System. |
  | [Basic Linux commands](examples/basic_linux_commands.md)  | Basic Linux terminal commands for file management, system monitoring, permissions, networking, package management and more.  |
