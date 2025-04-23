@@ -15,20 +15,33 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 # Table of Contents
 1. [Linux](#Linux)
 2. [Networking](#networking)
-3. []()
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. [Book Recommendations](#book-recommendations)
+3. [Security](#security)
+4. [Virtualisation](#virtualisation)
+5. [Cloud](#cloud)
+6. [Git](#git)
+7. [Agile](#agile)
+8. [Automation](#automation)
+9. [Development](#development)
+10. [Tools/Applications](#tools/applications)
+11. [AI & ML](ai-&-ml)
+12. [Job Roles](#job-roles)
+13. [Responsibilities](#responsibilities)
+14. [Soft-Skills](#soft-skills)
+15. [Book Recommendations](#book-recommendations)
     1. [Soft-skills Books](#soft-skills-books)
-    2. [Engineering books](#engineering-books) 
+    2. [Engineering books](#engineering-books)
+    3. [Networking](#networking)
+    4. [Security](#security)
+
+### Virtualisation
+
+## Cloud
+
+### SRE/OPS
+- [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
+
+### Management
+
 
 
 ## Linux
@@ -58,6 +71,11 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Toubleshooting and debugging](resources/troubleshooting_debugging.md) | Describing and comparing the basic principles of troubleshooting and debugging. |
  | [Networking Concepts](resources/networking_concepts.md) |  |
 
+## Security 
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | TODO          | TODO          |
 
 ## Virtualisation
 
@@ -86,7 +104,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | [Git Overview](docs/git_overview.md) | An overview of Git which is a distributed version control system used to track changes in source code or other files during collaborative projects |
  | [Git Tutorial](examples/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
 
-## Agile Project Management
+## Agile
 - [Agile concepts](resources/agile_concepts.md)
 - [Jira concepts](resources/jira_concepts.md)
 
@@ -94,11 +112,11 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Basic Scripting
 - Ansible
 
-## Coding
+## Development
 - Python (focus on automation)
 - Go (focus on development)
 
-## Common Tools & Applications
+## Tools/Applications
 - 
 
 ## AI & ML
@@ -112,7 +130,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Engineering roles](resources/software_eng_roles.md)
 - Leadership roles
 
-## Roles and Responsibilities
+## Responsibilities
 - [Meeting Types](resources/meeting_types.md)
 - [Understanding SLA's, SLO's, and SLI's](resources/sla_slo_sli.md)
  
@@ -142,8 +160,15 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Refactoring: Improving the Design of Existing Code
     - by Martin Fowler
 
-### Networking, Cloud & Virtualisation books
+### Networking
 
-### SRE & Operations Books
+### Security
+
+### Virtualisation
+
+## Cloud
+
+### SRE/OPS
 - [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
 
+### Management
