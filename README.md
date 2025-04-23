@@ -135,12 +135,15 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - [Understanding SLA's, SLO's, and SLI's](resources/sla_slo_sli.md)
  
 ## Soft-Skills
-- [Understanding soft-skills and their importance](resources/understanding_soft_skills.md)
-- [Crucial Conversations](resources/crucial_conversations.md) 
-- [Giving and Receiving Feedback](resources/giving_receiving_feedback.md)
-- [Importance of Accountability](resources/importance_of_accountability.md)
-- [Driving Accountability](resources/driving_accountability.md)
-- [Understanding Unconscious Bias](resources/unconscious_bias.md)
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Soft-skills Overview](resources/understanding_soft_skills.md) | |
+ | [Crucial Conversations](resources/crucial_conversations.md) | |
+ | [Giving and Receiving Feedback](resources/giving_receiving_feedback.md) | |
+ | [Importance of Accountability](resources/importance_of_accountability.md) | |
+ | [Driving Accountability](resources/driving_accountability.md) | |
+ | [Understanding Unconscious Bias](resources/unconscious_bias.md) | |
 
 ## Book Recommendations
 
