@@ -131,8 +131,11 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | Leadership roles | |
 
 ## Responsibilities
-- [Meeting Types](resources/meeting_types.md)
-- [Understanding SLA's, SLO's, and SLI's](resources/sla_slo_sli.md)
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Meeting types](resources/meeting_types.md) | |
+ | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  
 ## Soft-Skills
 
