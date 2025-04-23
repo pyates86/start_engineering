@@ -30,17 +30,12 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 15. [Book Recommendations](#book-recommendations)
     1. [Soft-skills Books](#soft-skills-books)
     2. [Engineering books](#engineering-books)
-    3. [Networking](#networking)
-    4. [Security](#security)
-
-### Virtualisation
-
-## Cloud
-
-### SRE/OPS
-- [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
-
-### Management
+    3. [Networking](#networking-books)
+    4. [Security](#security-books)
+    5. [Virtualisation](#virtualisation-books)
+    6. [Cloud](#cloud-books)
+    7. [SRE/OPS](#SRE/OPS-books)
+    8. [Management](#management-books)
 
 
 
@@ -160,15 +155,15 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Refactoring: Improving the Design of Existing Code
     - by Martin Fowler
 
-### Networking
+### Networking books
 
-### Security
+### Security books
 
-### Virtualisation
+### Virtualisation books
 
-## Cloud
+## Cloud books
 
-### SRE/OPS
+### SRE/OPS books
 - [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
 
-### Management
+### Management books
