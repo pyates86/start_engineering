@@ -108,8 +108,10 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 - Ansible
 
 ## Development
-- Python (focus on automation)
-- Go (focus on development)
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [Understanding Languages](resources/understanding_languages.md) | A brief description of the different types of of languages and what they are used for. |
+
 
 ## Tools/Applications
 - 
