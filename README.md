@@ -70,14 +70,14 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | Virtualisation fundementals |  |
  | Virtual Manchines (KVM) |  |
  | Containers (Cri-o, Docker, LXD) |  |
- | Kubernetes |  |
- | Openshift |  |
+ | [Understanding Kubernetes](docs/kubernetes_overview.md) |  |
+ | [Understanding Openshift](docs/openshift_overview.md) |  |
 
 ## Cloud
 
  | Topic         | Description   |
  | :------------ | :-----------: |
- | [Cloud Computing Overview](resources/cloud_overview.md) | |
+ | [Cloud Computing Overview](resources/cloud_computing_overview.md) | |
  | [Cloud Computing Concepts](resources/cloud_concepts.md) | |
  | Cloud providers (AWS, Azure, GCP) | |
 
