@@ -112,7 +112,7 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [AI Overview](docs/ai_overview.md) | A brief description of Artificial Intelligence, detailing key characteristics and concepts.          |
-
+ | [Basic Types of AI](docs/ai_types_overview.md) | A brief description of Artificial Intelligence types, detailing functionality.          |
 
 ## Job Roles
 
