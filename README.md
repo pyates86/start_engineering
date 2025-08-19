@@ -213,14 +213,22 @@ Software engineers develop soft skills to work effectively in Agile teams, commu
     - by Martin Fowler
 
 ### Networking books
+-
 
 ### Security books
+-
 
 ### Virtualisation books
+-
 
-## Cloud books
+### Cloud books
+-
 
 ### SRE/OPS books
 - [Google SRE Book - (read online)](https://sre.google/sre-book/table-of-contents/)
 
 ### Management books
+-
+
+## Other Useful Resources
+- 
