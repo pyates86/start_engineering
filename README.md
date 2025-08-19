@@ -48,6 +48,8 @@ Linux is an open-source operating system with freely modifiable code, built by a
 
 ## Networking
 
+Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.Software engineers learn networking to build and maintain web apps, cloud services, or IoT systems. It helps optimize data transfer, secure communications, and troubleshoot issues like latency. Essential for backend, DevOps, and cybersecurity, networking knowledge supports scalable systems and boosts career growth in cloud-based industries.
+
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Networking Fundamentals](resources/networking_fundamentals.md) | An overview  of networking fundamentals and the main concepts. |
