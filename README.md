@@ -103,6 +103,10 @@ Software engineers learn cloud computing to build, deploy, and scale application
 
 ## Git
 
+Git is a distributed version control system that tracks changes to code, allowing multiple developers to collaborate on projects. It stores code versions in repositories, enabling branching, merging, and rollback to manage updates efficiently, with platforms like GitHub or GitLab hosting remote repositories.
+
+Software engineers use Git to manage codebases, coordinate team contributions, and maintain project history. It’s essential for collaborative development, CI/CD pipelines, and open-source projects, ensuring code integrity and streamlined workflows. Learning Git is critical for careers in software engineering, DevOps, and team-based development.
+
  | Topic         | Description   |
  | :------------ | :-----------: | 
  | [Github Overview](docs/github_overview.md) | An overview of GitHub, its uses, and its main concepts. |
@@ -111,14 +115,32 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [Git Tutorial](examples/git_tutorial.md) | A beginner-friendly tutorial on using the Git version control system for software engineers. |
 
 ## Agile
+
+Agile is a software development methodology that emphasizes iterative, flexible, and collaborative approaches to building software. It uses short development cycles (sprints), frequent feedback, and adaptive planning, with frameworks like Scrum or Kanban, to deliver working software incrementally.
+
+Software engineers adopt Agile to enhance teamwork, adapt to changing requirements, and deliver high-quality code faster. It’s vital for managing complex projects, ensuring customer satisfaction, and aligning with business needs. Proficiency in Agile is essential for careers in software engineering, DevOps, and project management, fostering efficient and responsive development processes.
+
 - [Agile concepts](resources/agile_concepts.md)
 - [Jira concepts](resources/jira_concepts.md)
 
 ## Automation
-- Basic Scripting
-- Ansible
+
+Automation in software engineering is the use of tools and scripts to perform repetitive tasks, such as testing, deployment, or system monitoring, without manual intervention. It leverages technologies like CI/CD pipelines, scripting (e.g., Python), and tools like Jenkins or Ansible to streamline processes.
+
+Software engineers use automation to boost efficiency, reduce errors, and accelerate development cycles, such as automating code testing or server provisioning. It’s critical for DevOps, cloud computing, and scalable systems, ensuring consistent, reliable workflows. Mastering automation is essential for careers in software engineering, DevOps, and system administration.
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | Basic Scripting | TODO |
+ | Ansible | TODO |
+
 
 ## Development
+
+Software development is the process of designing, coding, testing, and maintaining software applications or systems to solve problems or meet user needs. It involves programming languages (e.g., Python, Java), tools like IDEs, and methodologies like Agile to create everything from mobile apps to enterprise systems.
+
+Software engineers learn software development to build functional, efficient, and user-friendly applications, such as web platforms or AI tools. It’s essential for creating scalable, secure software and collaborating on projects using version control like Git. Proficiency in software development is critical for careers in programming, DevOps, and tech innovation.
+
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Understanding Languages](resources/understanding_languages.md) | A brief description of the different types of of languages and what they are used for. |
@@ -128,6 +150,10 @@ Software engineers learn cloud computing to build, deploy, and scale application
 - 
 
 ## Artificial Intelligence & Machine Learning
+
+Artificial Intelligence (AI) and Machine Learning (ML) involve creating systems that mimic human intelligence, with ML being a subset where systems learn from data to make predictions or decisions. AI encompasses techniques like neural networks, NLP, and computer vision, used in applications from chatbots to recommendation systems.
+
+Software engineers use AI and ML to build intelligent features, such as predictive analytics or image recognition, in apps. They leverage tools like TensorFlow or scikit-learn to develop scalable, data-driven solutions. Mastering AI/ML is crucial for careers in software engineering, data science, and emerging fields like autonomous systems.
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -154,6 +180,10 @@ Software engineers learn cloud computing to build, deploy, and scale application
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  
 ## Soft-Skills
+
+Soft skills are non-technical abilities, like communication, teamwork, problem-solving, and adaptability, that enhance interpersonal interactions and workplace effectiveness. In software engineering, they complement technical skills, enabling collaboration, project management, and client engagement in dynamic team settings.
+
+Software engineers develop soft skills to work effectively in Agile teams, communicate ideas clearly, and adapt to changing project demands. These skills are vital for collaborating on codebases, resolving conflicts, and delivering user-focused solutions. Mastering soft skills is essential for career growth in software engineering, leadership roles, and cross-functional tech projects.
 
  | Topic         | Description   |
  | :------------ | :-----------: |
