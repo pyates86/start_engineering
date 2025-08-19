@@ -28,7 +28,7 @@ With extensive experience as a SysAdmin, Software Engineer, Site Reliability Eng
 13. [Responsibilities](#responsibilities)
 14. [Soft-Skills](#soft-skills)
 15. [Book Recommendations](#book-recommendations)
-
+16. [Other Useful Resources](#other-useful-resources)
 
 ## Linux
 
