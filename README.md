@@ -107,8 +107,12 @@ With extensive experience as a Systems Administrator, Software Engineer, Site Re
 ## Tools/Applications
 - 
 
-## AI & ML
-- Basic introduction
+## Artificial Intelligence & Machine Learning
+
+ | Topic         | Description   |
+ | :------------ | :-----------: |
+ | [AI Overview](docs/ai_overview.md) | A brief description of Artificial Intelligence, detailing key characteristics and concepts.          |
+
 
 ## Job Roles
 
