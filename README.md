@@ -201,8 +201,18 @@ Software engineers develop soft skills to work effectively in Agile teams, commu
     - by Adam Merrill, Kory Kogon, and Leena Rinne
 - 7 Habits of Highly Effective People
     -  by Stephen Covey
+- Crucial Conversations: Tools for Talking When Stakes Are High 
+    - by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler  
+- Deep Work: Rules for Focused Success in a Distracted World 
+    - by Cal Newport
+- Influence: The Psychology of Persuasion 
+    - by Robert B. Cialdini
+- Soft Skills: The Software Developer’s Life Manual
+    - by John Sonmez
 
 ### Engineering books
+- Think Like a Programmer: An Introduction to Creative Problem Solving
+    - by V. Anton Spraul
 - Clean Code: A Handbook of Agile Software Craftsmanship
     - by Robert C. Martin
 - The Pragmatic Programmer: Your Journey to Mastery
@@ -211,6 +221,8 @@ Software engineers develop soft skills to work effectively in Agile teams, commu
     - by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides 
 - Refactoring: Improving the Design of Existing Code
     - by Martin Fowler
+- Introduction to Algorithms
+    - by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein  
 
 ### Networking books
 -
