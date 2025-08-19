@@ -48,7 +48,9 @@ Linux is an open-source operating system with freely modifiable code, built by a
 
 ## Networking
 
-Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.Software engineers learn networking to build and maintain web apps, cloud services, or IoT systems. It helps optimize data transfer, secure communications, and troubleshoot issues like latency. Essential for backend, DevOps, and cybersecurity, networking knowledge supports scalable systems and boosts career growth in cloud-based industries.
+Computer networking connects devices to share data via wired (Ethernet) or wireless (Wi-Fi) technologies, using protocols like TCP/IP for reliable communication. It involves routers, switches, and servers, supporting everything from local networks (LANs) to the internet.
+
+Software engineers learn networking to build and maintain web apps, cloud services, or IoT systems. It helps optimize data transfer, secure communications, and troubleshoot issues like latency. Essential for backend, DevOps, and cybersecurity, networking knowledge supports scalable systems and boosts career growth in cloud-based industries.
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -63,11 +65,19 @@ Computer networking connects devices to share data via wired (Ethernet) or wirel
 
 ## Security 
 
+Computer security, or cybersecurity, is the practice of protecting computers, networks, and data from unauthorized access, attacks, or damage. It involves techniques like encryption, firewalls, and authentication to safeguard systems against threats such as malware, phishing, or data breaches. Cybersecurity ensures confidentiality, integrity, and availability of information in applications like online banking or cloud storage.
+
+Software engineers learn cybersecurity to build secure applications, protect user data, and prevent vulnerabilities in code. It’s critical for designing APIs, securing cloud services, and mitigating risks like SQL injection or cross-site scripting. Understanding security helps engineers comply with regulations and maintain user trust, while expertise in this field is vital for careers in web development, DevOps, and system administration.
+
  | Topic         | Description   |
  | :------------ | :-----------: |
  | TODO          | TODO          |
 
 ## Virtualisation
+
+Virtualization is the creation of virtual versions of computing resources, such as servers, operating systems, or storage, using software called hypervisors (e.g., VMware, VirtualBox). It allows multiple virtual machines to run on a single physical machine, isolating environments while sharing hardware resources, enabling efficient testing, development, or cloud computing.
+
+Software engineers learn virtualization to build and test applications in isolated, reproducible environments, like simulating different operating systems. It’s crucial for DevOps, cloud platforms (e.g., AWS, Azure), and containerization (e.g., Docker), optimizing resource use and scalability. Understanding virtualization enhances skills in system deployment and management, boosting career prospects in cloud-based and enterprise development.
 
  | Topic         | Description   |
  | :------------ | :-----------: |
@@ -78,6 +88,10 @@ Computer networking connects devices to share data via wired (Ethernet) or wirel
  | [Understanding Openshift](docs/openshift_overview.md) |  |
 
 ## Cloud
+
+Cloud computing is the delivery of computing resources, like servers, storage, or software, over the internet, using services like AWS, Azure, or Google Cloud. It enables on-demand access to scalable, flexible infrastructure without physical hardware management, supporting applications from web hosting to AI model training.
+
+Software engineers learn cloud computing to build, deploy, and scale applications efficiently, such as web apps or machine learning pipelines. It streamlines development with tools for automation, storage, and networking, while ensuring cost-efficiency and reliability. Mastery of cloud platforms is essential for careers in DevOps, backend development, and modern software engineering.
 
  | Topic         | Description   |
  | :------------ | :-----------: |
