@@ -32,6 +32,8 @@ With extensive experience as a SysAdmin, Software Engineer, Site Reliability Eng
 
 ## Linux
 
+Linux is an open-source operating system with freely modifiable code, built by a global community. Unlike Windows or macOS, it’s customizable, secure, and free, running on devices from PCs to servers. Popular distributions like Ubuntu and Debian suit various needs, with a Unix-like kernel ensuring stability.Software engineers use Linux for its powerful command-line tools, ideal for automating tasks and debugging code. It dominates servers, cloud platforms (e.g., AWS), and containers (e.g., Docker), making it crucial for backend, DevOps, and AI/ML work. Its stability, security, and open-source nature support tailored development environments and career-relevant skills.
+
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Linux Overview](resources/linux_overview.md)  | Understanding the basic concepts of the Linux Operating System. |
