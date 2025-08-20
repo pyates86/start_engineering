@@ -2,6 +2,25 @@
 
 This cheatsheet covers essential Linux terminal commands for file management, system monitoring, permissions, networking, package management, and more. Use it as a quick reference for navigating and managing Linux systems efficiently.
 
+**NOTE:** Many of the commands below can be ran without additional parameters, e.g.; run `ls` to list files in current directory (`rm` for example needs additional operands).  To get a better understanding of how to use each command, you can use the 'help' or 'man' pages.  E.g.; `ls --help` will give you short instructions on how to use command, often including some examples of usage. Use `man ls` to get a more verbose manual of the ls command and how it is used. Therefore;
+
+## Prerequisites
+Open a Linux Terminal and run the following two commands to understand how the `help` and `man` pages work;
+
+Firstly;
+
+---
+ls --help
+---
+
+Followed by;
+
+---
+man ls
+---
+
+**NOTE:** You can use the space bar to move through the pages when using the `man ls` command, and use `q` to quit. 
+
 ## 1\. File and Directory Management
 
 | Command | Description | Example |
