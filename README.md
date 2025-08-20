@@ -177,6 +177,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | Topic         | Description   |
  | :------------ | :-----------: |
  | [Meeting types](resources/meeting_types.md) | |
+ | [Writing a Proposal Doc](resources/proposal_doc.md) | A basic template with tips on how to write a proposal document. |
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
  | [Error Budget and Burn Rate](resources/error_budget_burn_rate.md) | A brief explination of Error Budgets and Burn Rates with examples. |
  
