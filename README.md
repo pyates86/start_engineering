@@ -178,6 +178,7 @@ Software engineers use AI and ML to build intelligent features, such as predicti
  | :------------ | :-----------: |
  | [Meeting types](resources/meeting_types.md) | |
  | [SLA's, SLO's, and SLI's](resources/sla_slo_sli.md) | |
+ | [Error Budget and Burn Rate](resources/error_budget_burn_rate.md) | A brief explination of Error Budgets and Burn Rates with examples. |
  
 ## Soft-Skills
 
