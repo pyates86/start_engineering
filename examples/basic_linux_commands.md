@@ -7,16 +7,20 @@ This cheatsheet covers essential Linux terminal commands for file management, sy
 ## Prerequisites
 Open a Linux Terminal and run the following two commands to understand how the `help` and `man` pages work;
 
-Firstly;
+Firstly, run this command;
 
 ---
+
 ls --help
----
-
-Followed by;
 
 ---
+
+Now run this command;
+
+---
+
 man ls
+
 ---
 
 **NOTE:** You can use the space bar to move through the pages when using the `man ls` command, and use `q` to quit. 
